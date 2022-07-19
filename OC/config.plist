@@ -62,11 +62,6 @@
 			<string>OK (AppleRTL815XEthernet110.kext)</string>
 		</dict>
 	</dict>
-	<key># testes:</key>
-	<dict>
-		<key>#NVRAm/Add/7C../boot-args </key>
-		<string>-v keepsyms=1 debug=0x100 -igfxblr igfxonln=1</string>
-	</dict>
 	<key>ACPI</key>
 	<dict>
 		<key>Add</key>
