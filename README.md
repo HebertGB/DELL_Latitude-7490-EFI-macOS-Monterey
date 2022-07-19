@@ -1,6 +1,7 @@
 # Laptop Dell Latitude 7490 Hackintosh EFI | 8th Kaby Lake
 # OpenCore 0.8.2
 # macOS 12.4 Monterey
+# SMBIOS: MacBookPro14,2
 # Author: Hebert G. Barbosa
 
 ## System configuration
