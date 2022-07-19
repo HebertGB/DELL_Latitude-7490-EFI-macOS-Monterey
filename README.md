@@ -47,3 +47,5 @@ Monitor principal: LG Ultra Wide 29" 2560x1080
 Monitor secundário: LG 20" 1600x900
 Teclado e Mouse: Logitech K540
 ```
+
+https://github.com/HebertGB/DELL_Latitude-7490-EFI-macOS-Monterey
