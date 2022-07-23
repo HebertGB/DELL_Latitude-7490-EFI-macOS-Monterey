@@ -4,6 +4,8 @@
 # SMBIOS: MacBookPro14,2
 # Author: Hebert G. Barbosa
 
+## use gensmbios with MacBookPro14,2 to generate SMBIOS data and update on config.plist/PlatformInfo/Generic: MLB, ROM, SystemSerialNumber and SystemUUID
+
 ## System configuration
 - Intel 8th gen Kaby Lake R quad-core i7-8650U 1.9GHz CPU
 - 16Gb DDR4-2400 RAM
